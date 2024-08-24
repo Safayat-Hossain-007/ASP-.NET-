@@ -1,0 +1,14 @@
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/bin/Debug/net8.0/Dictionary
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/bin/Debug/net8.0/Dictionary.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/bin/Debug/net8.0/Dictionary.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/bin/Debug/net8.0/Dictionary.dll
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/bin/Debug/net8.0/Dictionary.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.dll
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/refint/Dictionary.dll
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/Dictionary.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/Dictionary/obj/Debug/net8.0/ref/Dictionary.dll

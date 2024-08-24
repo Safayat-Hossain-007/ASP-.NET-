@@ -1,0 +1,14 @@
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/bin/Debug/net8.0/ArrayPractice
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/bin/Debug/net8.0/ArrayPractice.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/bin/Debug/net8.0/ArrayPractice.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/bin/Debug/net8.0/ArrayPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/bin/Debug/net8.0/ArrayPractice.pdb
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/refint/ArrayPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.pdb
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ArrayPractice.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/ArrayPractice/obj/Debug/net8.0/ref/ArrayPractice.dll

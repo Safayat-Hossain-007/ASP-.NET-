@@ -1,0 +1,14 @@
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/bin/Debug/net8.0/ListPractice
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/bin/Debug/net8.0/ListPractice.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/bin/Debug/net8.0/ListPractice.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/bin/Debug/net8.0/ListPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/bin/Debug/net8.0/ListPractice.pdb
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/refint/ListPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.pdb
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ref/ListPractice.dll

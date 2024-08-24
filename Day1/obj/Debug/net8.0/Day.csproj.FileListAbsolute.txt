@@ -1,0 +1,14 @@
+/home/safayat/Desktop/C#/CodeAcademy/Day/bin/Debug/net8.0/Day
+/home/safayat/Desktop/C#/CodeAcademy/Day/bin/Debug/net8.0/Day.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/Day/bin/Debug/net8.0/Day.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/Day/bin/Debug/net8.0/Day.dll
+/home/safayat/Desktop/C#/CodeAcademy/Day/bin/Debug/net8.0/Day.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.dll
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/refint/Day.dll
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/Day.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/Day/obj/Debug/net8.0/ref/Day.dll
