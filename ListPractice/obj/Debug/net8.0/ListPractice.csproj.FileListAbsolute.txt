@@ -12,3 +12,4 @@
 /home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.pdb
 /home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.genruntimeconfig.cache
 /home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ref/ListPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/ListPractice/obj/Debug/net8.0/ListPractice.sourcelink.json
