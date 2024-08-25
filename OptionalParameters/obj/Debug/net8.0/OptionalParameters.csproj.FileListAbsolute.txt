@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/bin/Debug/net8.0/OptionalParameters
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/bin/Debug/net8.0/OptionalParameters.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/bin/Debug/net8.0/OptionalParameters.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/bin/Debug/net8.0/OptionalParameters.dll
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/bin/Debug/net8.0/OptionalParameters.pdb
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.dll
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/refint/OptionalParameters.dll
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.pdb
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/OptionalParameters.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/OptionalParameters/obj/Debug/net8.0/ref/OptionalParameters.dll

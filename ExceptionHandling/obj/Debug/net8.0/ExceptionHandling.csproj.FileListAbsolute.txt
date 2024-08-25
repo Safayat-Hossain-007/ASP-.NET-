@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.dll
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.pdb
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.dll
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/refint/ExceptionHandling.dll
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.pdb
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/ExceptionHandling/obj/Debug/net8.0/ref/ExceptionHandling.dll

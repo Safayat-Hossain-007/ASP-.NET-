@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/Function/bin/Debug/net8.0/Function
+/home/safayat/Desktop/C#/CodeAcademy/Function/bin/Debug/net8.0/Function.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/Function/bin/Debug/net8.0/Function.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/Function/bin/Debug/net8.0/Function.dll
+/home/safayat/Desktop/C#/CodeAcademy/Function/bin/Debug/net8.0/Function.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.dll
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/refint/Function.dll
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/Function.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/Function/obj/Debug/net8.0/ref/Function.dll

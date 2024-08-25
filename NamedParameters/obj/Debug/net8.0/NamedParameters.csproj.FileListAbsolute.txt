@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/bin/Debug/net8.0/NamedParameters
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/bin/Debug/net8.0/NamedParameters.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/bin/Debug/net8.0/NamedParameters.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/bin/Debug/net8.0/NamedParameters.dll
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/bin/Debug/net8.0/NamedParameters.pdb
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.dll
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/refint/NamedParameters.dll
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.pdb
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/NamedParameters.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/NamedParameters/obj/Debug/net8.0/ref/NamedParameters.dll

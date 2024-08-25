@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/bin/Debug/net8.0/FunctionPractice
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/bin/Debug/net8.0/FunctionPractice.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/bin/Debug/net8.0/FunctionPractice.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/bin/Debug/net8.0/FunctionPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/bin/Debug/net8.0/FunctionPractice.pdb
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/refint/FunctionPractice.dll
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.pdb
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/FunctionPractice.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/FunctionPractice/obj/Debug/net8.0/ref/FunctionPractice.dll

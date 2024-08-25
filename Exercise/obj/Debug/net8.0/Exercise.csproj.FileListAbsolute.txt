@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/bin/Debug/net8.0/Exercise
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/bin/Debug/net8.0/Exercise.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/bin/Debug/net8.0/Exercise.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/bin/Debug/net8.0/Exercise.dll
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/bin/Debug/net8.0/Exercise.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.dll
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/refint/Exercise.dll
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/Exercise.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/Exercise/obj/Debug/net8.0/ref/Exercise.dll

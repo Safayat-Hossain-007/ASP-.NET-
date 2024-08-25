@@ -1,0 +1,15 @@
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/bin/Debug/net8.0/Void Function
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/bin/Debug/net8.0/Void Function.deps.json
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/bin/Debug/net8.0/Void Function.runtimeconfig.json
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/bin/Debug/net8.0/Void Function.dll
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/bin/Debug/net8.0/Void Function.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.GeneratedMSBuildEditorConfig.editorconfig
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.AssemblyInfoInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.AssemblyInfo.cs
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.csproj.CoreCompileInputs.cache
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.sourcelink.json
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.dll
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/refint/Void Function.dll
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.pdb
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/Void Function.genruntimeconfig.cache
+/home/safayat/Desktop/C#/CodeAcademy/Void Function/obj/Debug/net8.0/ref/Void Function.dll
